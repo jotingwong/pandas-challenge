@@ -1,0 +1,4 @@
+Author: JoTing Wong
+
+
+After running the analysis on Heroes of Pymoli dataset, we found there were 576 people playing this game.  Out of 567 players, 14.06% were female, 84.03% were male and 1.91% were other/non-disclosed gender.  Most players were male.  We did an analysis on gender and total purchase.  The relationship we found in gender population and average total purchase per person are opposite.  The gender formed smaller population is welling to spend higher price for the purchase.  The gender formed bigger population purchased in lower price.  With the Age analysis, we found that most players were in age group between 20 and 24 and we found the top spender made 5 purchases.  The most popular item is Oathbreaker, Last Hope of the Breaking Storm, it was purchased for 12 times.  It is also the most profitable item.            
